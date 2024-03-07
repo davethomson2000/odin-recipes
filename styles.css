@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    color: darkslategrey;
+    font-size: 32px;
+}
+
+.food-pic img {
+    border-radius: 10%;
+}
+
+#img-attribution {
+    font-size: 10px
+}
+
+ul li {
+    font-weight: 600;    
+}
+
+li {
+    font-size: 16px;
+}
+
+.recipe-link {
+    font-weight: 500;
+}
