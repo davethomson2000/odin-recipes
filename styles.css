@@ -10,6 +10,10 @@ h1 {
     font-size: 32px;
 }
 
+.description {
+    accent-color: pink;    
+}
+
 .food-pic img {
     border-radius: 10%;
 }
