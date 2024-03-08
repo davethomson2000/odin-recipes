@@ -1,13 +1,27 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 600px;
+    margin: 0 auto;
+    background-color: hsl(184, 44%, 93%);
+    padding: 16px;
+}
+
+.main-container {
+    background-color: whitesmoke;
+    padding: 8px;
+    border-style:solid ;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: grey;
 }
 
 h1 {
-    color: darkslategrey;
-    font-size: 32px;
+    color: whitesmoke;
+    font-size: 1.4rem;
+    padding: 1rem;
+    margin: -8px -8px 0px;
+    background-color:  hsl(183, 73%, 25%);
 }
 
 .description {
@@ -28,6 +42,8 @@ ul li {
 
 li {
     font-size: 16px;
+    margin-bottom: 2px;
+    margin-left: -8px;
 }
 
 .recipe-link {
